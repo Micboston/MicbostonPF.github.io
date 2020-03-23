@@ -11,6 +11,7 @@ body {
   line-height: 150px;
 }
 #header-title {
+  font-family: courier;
   display: block;
   float: left;
   font-size: 20px;
@@ -83,6 +84,6 @@ p {
 }
 
 img {
-filter:saturate(200%);
+filter:saturate(120%);
 
 }
