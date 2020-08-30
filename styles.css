@@ -6,7 +6,7 @@ body {
   font-family: optima;
 text-align:center;
 }
-#thumbnails img {
+ img {
 width:100px;
 height: 100px;
 object-fit:cover;
