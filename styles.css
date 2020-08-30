@@ -10,7 +10,7 @@ width:1000px;
 img {
 width:100px;
 height: 100px;
-object-Fit: contain;
+object-Fit: cover;
 }
 img:hover {
 transform: scale(1.5);
